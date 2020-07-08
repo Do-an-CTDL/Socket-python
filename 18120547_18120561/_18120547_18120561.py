@@ -47,7 +47,7 @@ def handleClient(client):
 
       
         userName = user[1] #user
-        passWord = passWord[1] #password
+        passWord = passW[1] #password
         if userName == "admin" and passWord == "admin": #chuyển hướng sang info.html
             header = "HTTP/1.1 301 Moved Permanently\nLocation: /" + inforGroup + "\n" #header của HTTP Redirection
             finalReponse = header.encode('utf-8') 
