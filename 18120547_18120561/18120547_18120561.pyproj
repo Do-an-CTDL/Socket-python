@@ -30,11 +30,9 @@
     <Content Include=".gitignore" />
     <Content Include="404.html" />
     <Content Include="bootstrap.min.css" />
-    <Content Include="favicon.ico" />
     <Content Include="index.html" />
-    <Content Include="info.html" />
+    <Content Include="infor.html" />
     <Content Include="README.md" />
-    <Content Include="style.css" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
