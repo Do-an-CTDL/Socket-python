@@ -29,7 +29,6 @@
   <ItemGroup>
     <Content Include=".gitignore" />
     <Content Include="404.html" />
-    <Content Include="bootstrap.min.css" />
     <Content Include="index.html" />
     <Content Include="infor.html" />
     <Content Include="README.md" />
